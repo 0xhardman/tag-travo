@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:0xhardman/tag-travo-web.git
+[submodule "subgraph"]
+	path = subgraph
+	url = https://github.com/0xja-eth/tag-trove-subgraph
+[submodule "server"]
+	path = server
+	url = https://github.com/0xja-eth/tag-trove-server
